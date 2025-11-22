@@ -41,11 +41,6 @@ This project is an ESP32-based fire-fighting robot that detects flames using thr
 
 ---
 
-# 📁 Repository Structure
-
-
----
-
 # 🛠️ Hardware Required
 - ESP32 Development Board  
 - L298N Motor Driver  
